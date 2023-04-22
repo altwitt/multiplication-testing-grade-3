@@ -124,7 +124,4 @@ if __name__ == "__main__":
 
 
             """)
-# GITHUB API TOKEN
-# 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
-# gist url
-# https://gist.github.com/altwitt/f1dcbf9afeca313c32d7fd7f806b25f8
+
